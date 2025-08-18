@@ -1,16 +1,21 @@
 
+
+#string
 menu = "potato"
 
 print(f"what is on the menu? We got {menu}")
 
+#integers
 score = 9000
 
 print(f"you need atleast {score} trophies to join the clan")
 
+#float
 average_elixir = 3.4
 
 print(f"my average elixir is {average_elixir} which is low")
 
+#boolean
 clan_member = False
 
 if clan_member: 
