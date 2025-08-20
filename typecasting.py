@@ -11,4 +11,4 @@ clan = bool(clan)
 print(type(medlemmer))
 print(type(avelixir))
 print(clan)
-
+ 
